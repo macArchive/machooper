@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @machooper
+- 👀 I’m interested in AI, Web Development and Application Development.
+- 🌱 I’m currently learning Swift, Kotlin and Typescript.
+- 💞️ I’m looking to collaborate on my first open source project.
+- 📫 How to reach me via email at macasmac@icloud.com
