@@ -28,4 +28,4 @@ _These things must be fully working before I switch over to vim_
 - [ ] **Vercel**
 
 ## Maybes 
-- [ ] ** Remote Repo
+- [ ] Remote Repo
