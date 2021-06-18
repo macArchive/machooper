@@ -1,6 +1,7 @@
 # Todo List
 
-- [ ] Platformer in JS
+## Basics
+- [x] Platformer in JS
 - [ ] Todo
 - [ ] eCommerce
 - [ ] Word of the Day
