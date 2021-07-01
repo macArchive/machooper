@@ -3,3 +3,4 @@
 - 🌱 I’m currently learning Swift, Kotlin and Typescript.
 - 💞️ I’m looking to collaborate on my first open source project.
 - 📫 How to reach me via email at macma_c@icloud.com
+- 🌐 You can visit my portfolio by [clicking here](https://machooper.tech)
