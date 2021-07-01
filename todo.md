@@ -1,6 +1,7 @@
 # Todo List
 
 ## Basics
+- [x] Portfolio Website
 - [x] Platformer in JS
 - [ ] Todo
 - [ ] eCommerce
