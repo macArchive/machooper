@@ -1,0 +1,2 @@
+# add all files, commit with message and push to GitHub
+gcp () { git add .; git commit -m '$1'; git push -u origin main;}
