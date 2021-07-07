@@ -4,6 +4,7 @@
 - [x] Portfolio Website
 - [x] Platformer in JS
 - [ ] Todo
+- [ ] Add Animations & Transitions to Portfolio
 - [ ] eCommerce
 - [ ] Word of the Day
 - [ ] Social Network
